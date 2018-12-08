@@ -1,0 +1,2 @@
+"trip_id","duration","start_date","start_station","start_terminal","end_date","end_station","end_terminal","bike_id","subscriber_type","zip_code"
+"1011650","60","2015-11-16 18:54:00","Mezes","83","2015-11-16 18:55:00","Mezes","83",35,"Subscriber","94124"
